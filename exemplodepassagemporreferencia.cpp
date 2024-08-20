@@ -7,7 +7,7 @@ void incrementarPorReferencia(int &num) {
 }
 
 int main() {
-    int a = 20;
+    int a = 5;
     incrementarPorReferencia(a);
     cout << "Fora da funsao: " << a << endl;
     return 0;
