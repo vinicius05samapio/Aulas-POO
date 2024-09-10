@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-//função principal
+//função principalndereco da variavel
 int main() {
 
     int idade = 25;
