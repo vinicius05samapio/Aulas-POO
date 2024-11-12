@@ -20,4 +20,3 @@ class Time {
         //constructor padrão
         explicit Time(int hour = 0, int minute = 0)
 };
-#endif
